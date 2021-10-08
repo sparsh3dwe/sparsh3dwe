@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sparsh Jain
-- 📫 How to reach me ... sparsh@itinker.in
+- 📫 How to reach me ... sparsh@itinker.io
 
 <!---
 sparsh3dwe/sparsh3dwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
